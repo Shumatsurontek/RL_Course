@@ -1,0 +1,7 @@
+output/
+wandb/
+.env
+.venv/
+.env.local
+.env.development.local
+.env.test.local
