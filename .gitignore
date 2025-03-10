@@ -5,3 +5,7 @@ wandb/
 .env.local
 .env.development.local
 .env.test.local
+figures/
+__pycache__/
+GRPO/
+titanic/
