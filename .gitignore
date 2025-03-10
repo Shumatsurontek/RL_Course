@@ -9,3 +9,8 @@ figures/
 __pycache__/
 GRPO/
 titanic/
+data/
+flow.html
+alfred_chroma_db/
+lib/
+node_modules/
